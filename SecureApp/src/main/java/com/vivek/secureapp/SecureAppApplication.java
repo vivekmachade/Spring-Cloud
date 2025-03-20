@@ -1,4 +1,4 @@
-package com.vivekmachade.secureapp;
+package com.vivek.secureapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.vivekmachade.secureapp;
+package com.vivek.secureapp;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

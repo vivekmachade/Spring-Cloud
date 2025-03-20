@@ -1,4 +1,4 @@
-package com.vivekmachade.secureapp;
+package com.vivek.secureapp;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

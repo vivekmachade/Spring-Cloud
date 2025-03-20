@@ -1,4 +1,4 @@
-package com.vivekmachade.secureapp;
+package com.vivek.secureapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
