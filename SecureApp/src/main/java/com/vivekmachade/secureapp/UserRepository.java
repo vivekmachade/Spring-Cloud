@@ -1,4 +1,4 @@
-package com.anand.secureapp;
+package com.vivekmachade.secureapp;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
