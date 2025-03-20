@@ -1,4 +1,4 @@
-package com.anand.Demo;
+package com.vivekmachade.Demo;
 import java.util.*;
 import com.anand.Demo.model.Alien;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package com.anand.SpringDemo;
+package com.vivekmachade.SpringDemo;
 
 public class Desktop implements Computer {
 

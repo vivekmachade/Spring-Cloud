@@ -1,4 +1,4 @@
-package com.anand.Demo.controller;
+package com.vivekmachade.Demo.controller;
 
 import com.anand.Demo.AlienRepo;
 import com.anand.Demo.model.Alien;
