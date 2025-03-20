@@ -1,4 +1,4 @@
-package com.vivekmachade.SpringDemo;
+package com.vivek.SpringDemo;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

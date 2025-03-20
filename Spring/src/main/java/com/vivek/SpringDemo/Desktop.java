@@ -1,4 +1,4 @@
-package com.vivekmachade.SpringDemo;
+package com.vivek.SpringDemo;
 
 public class Desktop implements Computer {
 

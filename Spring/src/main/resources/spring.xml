@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
            http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="alien" class="com.vivekmachade.SpringDemo.Alien" scope="prototype" autowire="byName"> <!-- we can write autowire="byType as well-->
+    <bean id="alien" class="com.vivek.SpringDemo.Alien" scope="prototype" autowire="byName"> <!-- we can write autowire="byType as well-->
         <property name="age" value="12">
         </property>
     <!--<constructor-arg value="12"/> -->
@@ -13,12 +13,12 @@
 
    <!-- <bean id="laptop" class="com.vivekmachade.SpringDemo.Laptop">
     </bean> -->
-    <bean id="com" class="com.vivekmachade.SpringDemo.Laptop" primary="true">
+    <bean id="com" class="com.vivek.SpringDemo.Laptop" primary="true">
     </bean>
     <!-- here scope prototype means , it'll create individual object for individual bean calls-->
 
     <!--  <bean id="alien" class="com.vivekmachade.SpringDemo.Alien" scope="singleton"/> here objects will refer to the same reference
     in singleton , even if you don't ask for the object it will create you an object -->
-    <bean id="desktop" class="com.vivekmachade.SpringDemo.Desktop">
+    <bean id="desktop" class="com.vivek.SpringDemo.Desktop">
     </bean>
 </beans>
