@@ -1,10 +1,10 @@
-package com.vivekmachade.quizservice.service;
+package com.vivek.quizservice.service;
 
-import com.vivekmachade.quizservice.dao.QuizDao;
-import com.vivekmachade.quizservice.feign.QuizInterface;
-import com.vivekmachade.quizservice.model.QuestionWrapper;
-import com.vivekmachade.quizservice.model.Quiz;
-import com.vivekmachade.quizservice.model.Response;
+import com.vivek.quizservice.dao.QuizDao;
+import com.vivek.quizservice.feign.QuizInterface;
+import com.vivek.quizservice.model.QuestionWrapper;
+import com.vivek.quizservice.model.Quiz;
+import com.vivek.quizservice.model.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

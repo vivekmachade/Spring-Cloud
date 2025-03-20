@@ -1,7 +1,7 @@
-package com.vivekmachade.quizservice.feign;
+package com.vivek.quizservice.feign;
 
-import com.vivekmachade.quizservice.model.QuestionWrapper;
-import com.vivekmachade.quizservice.model.Response;
+import com.vivek.quizservice.model.QuestionWrapper;
+import com.vivek.quizservice.model.Response;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

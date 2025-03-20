@@ -1,4 +1,4 @@
-package com.vivekmachade.serviceregistry;
+package com.vivek.serviceregistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

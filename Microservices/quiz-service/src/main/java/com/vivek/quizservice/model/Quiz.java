@@ -1,4 +1,4 @@
-package com.vivekmachade.quizservice.model;
+package com.vivek.quizservice.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

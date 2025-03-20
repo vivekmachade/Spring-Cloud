@@ -1,9 +1,9 @@
-package com.vivekmachade.quizservice.controller;
+package com.vivek.quizservice.controller;
 
-import com.vivekmachade.quizservice.model.QuestionWrapper;
-import com.vivekmachade.quizservice.model.QuizDto;
-import com.vivekmachade.quizservice.model.Response;
-import com.vivekmachade.quizservice.service.QuizService;
+import com.vivek.quizservice.model.QuestionWrapper;
+import com.vivek.quizservice.model.QuizDto;
+import com.vivek.quizservice.model.Response;
+import com.vivek.quizservice.service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

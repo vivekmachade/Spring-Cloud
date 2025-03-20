@@ -1,4 +1,4 @@
-package com.vivekmachade.questionservice.model;
+package com.vivek.questionservice.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

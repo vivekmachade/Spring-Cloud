@@ -1,4 +1,4 @@
-package com.vivekmachade.apigateway;
+package com.vivek.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

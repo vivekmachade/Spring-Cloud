@@ -1,4 +1,4 @@
-package com.vivekmachade.quizservice;
+package com.vivek.quizservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

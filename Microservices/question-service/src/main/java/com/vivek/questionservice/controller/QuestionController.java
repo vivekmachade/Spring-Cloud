@@ -1,10 +1,10 @@
-package com.vivekmachade.questionservice.controller;
+package com.vivek.questionservice.controller;
 
 
-import com.vivekmachade.questionservice.model.Question;
-import com.vivekmachade.questionservice.model.QuestionWrapper;
-import com.vivekmachade.questionservice.model.Response;
-import com.vivekmachade.questionservice.service.QuestionService;
+import com.vivek.questionservice.model.Question;
+import com.vivek.questionservice.model.QuestionWrapper;
+import com.vivek.questionservice.model.Response;
+import com.vivek.questionservice.service.QuestionService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

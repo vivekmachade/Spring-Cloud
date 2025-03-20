@@ -1,4 +1,4 @@
-package com.vivekmachade.questionservice.model;
+package com.vivek.questionservice.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

@@ -1,10 +1,10 @@
-package com.vivekmachade.questionservice.service;
+package com.vivek.questionservice.service;
 
 
-import com.vivekmachade.questionservice.dao.QuestionDao;
-import com.vivekmachade.questionservice.model.Question;
-import com.vivekmachade.questionservice.model.QuestionWrapper;
-import com.vivekmachade.questionservice.model.Response;
+import com.vivek.questionservice.dao.QuestionDao;
+import com.vivek.questionservice.model.Question;
+import com.vivek.questionservice.model.QuestionWrapper;
+import com.vivek.questionservice.model.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
