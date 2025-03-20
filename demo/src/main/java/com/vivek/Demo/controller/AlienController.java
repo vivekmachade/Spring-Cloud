@@ -1,10 +1,8 @@
-package com.vivekmachade.Demo.controller;
+package com.vivek.Demo.controller;
 
 import com.anand.Demo.AlienRepo;
-import com.anand.Demo.model.Alien;
+import com.vivek.Demo.model.Alien;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

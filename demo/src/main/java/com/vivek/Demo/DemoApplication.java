@@ -1,4 +1,4 @@
-package com.vivekmachade.Demo;
+package com.vivek.Demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

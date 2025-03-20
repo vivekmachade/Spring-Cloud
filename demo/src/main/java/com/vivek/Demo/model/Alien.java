@@ -1,4 +1,4 @@
-package com.anand.Demo.model;
+package com.vivek.Demo.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
